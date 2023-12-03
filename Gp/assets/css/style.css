@@ -184,8 +184,11 @@ h6 {
 /**
 * Desktop Navigation 
 */
+
+
+
 .navbar {
-  padding: 0;
+  padding: 20px;
 }
 
 .navbar ul {
@@ -196,20 +199,17 @@ h6 {
   align-items: center;
 }
 
-.navbar li {
-  position: relative;
-}
+
 
 .navbar a,
 .navbar a:focus {
   display: flex;
-  align-items: center;
+  align-items: top;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 0px 80px 20px 10px;
   font-size: 15px;
   font-weight: 600;
   color: #fff;
-  white-space: nowrap;
   transition: 0.3s;
 }
 

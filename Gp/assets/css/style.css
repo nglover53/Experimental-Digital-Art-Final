@@ -10,7 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
   color: #444444;
 }
 
@@ -30,7 +31,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -201,12 +203,13 @@ h6 {
 .navbar a,
 .navbar a:focus {
   display: flex;
-  align-items: top;
-  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   padding: 30px 80px 20px 10px;
   font-size: 15px;
   font-weight: 600;
-  color: #fff;
+  color: #000;
   transition: 0.3s;
 }
 
@@ -221,7 +224,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffc451;
+  color: #1926a1;
 }
 
 .navbar .dropdown ul {
@@ -429,7 +432,8 @@ h6 {
   font-weight: 700;
   line-height: 64px;
   color: #fff;
-  font-family: 'Courier New', Courier, monospace;
+  /* font-family: 'Courier New', Courier, monospace; */
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #hero h1 span {
@@ -517,7 +521,8 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .section-title h2::after {
@@ -535,7 +540,8 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
   color: #151515;
 }
 
@@ -545,7 +551,8 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .about .content ul {
@@ -718,7 +725,8 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -966,7 +974,8 @@ section {
 .counts .content .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 50px;
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   color: #3b3b3b;
 }
@@ -977,7 +986,8 @@ section {
   margin-top: 20px;
   color: #3b3b3b;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
   transition: ease-in-out 0.3s;
 }
 
@@ -1427,7 +1437,8 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
   color: #fff;
 }
 

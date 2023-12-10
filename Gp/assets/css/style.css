@@ -633,7 +633,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #ffc451;
+  color: #1926a1;
 }
 
 .features .icon-box p {
@@ -664,7 +664,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #ffc451;
+  background: #1926a1;
   border-radius: 4px;
   display: flex;
   align-items: center;
@@ -674,7 +674,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #151515;
+  color: #fff;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }

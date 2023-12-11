@@ -1096,10 +1096,10 @@ section {
 .testimonial-link {
   padding-left: 10px;
   padding-right: 10px;
+  transition: ease-in-out 0.3s;
 }
 
 .testimonial-link:hover {
-  transition: ease-in-out 0.3s;
   transform: scale(1.1, 1.1);
 }
 

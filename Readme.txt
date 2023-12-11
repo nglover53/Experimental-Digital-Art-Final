@@ -1,5 +1,5 @@
-### Project URL Link:
-[https://nglover53.github.io/Experimental-Digital-Art-Final/] (https://nglover53.github.io/Experimental-Digital-Art-Final/)
+Project URL Link:
+https://nglover53.github.io/Experimental-Digital-Art-Final/
 
 Thanks for downloading this template!
 
